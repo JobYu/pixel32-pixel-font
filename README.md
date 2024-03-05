@@ -5,13 +5,14 @@ pixel32 (像素32）is a pixel font (像素字体), supporting English,  Simplif
 
 - Name: pixel32 (像素32）
 - Size: 12px (11px + 1px padding)
-- Char Total: (English / Simplified Chinese / Japanese)
+- Char Total: 6763 Chinese characters (English / Simplified Chinese / Japanese)
 
 ## 字体信息
 
 - 名称：pixel32 (像素32）
 - 字号：12px （11px + 1px 间距）
-- 字数：（英文＋简体中文＋日文）
+- 字数：6763个汉字（英文 / 简体中文）
+
 
 ## 版权声明
 
