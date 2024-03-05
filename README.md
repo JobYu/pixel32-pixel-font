@@ -1,17 +1,52 @@
 # pixel32-pixel-font
-pixel32 (像素32）is a pixel font (像素字体), supporting English,  Simplified Chinese and Japanese.
+pixel32 (像素32）is a pixel font (像素字体), supporting English,  Simplified Chinese.
+
+
+  <br>
+   📍<a href="https://pix32.vercel.app/" target="_blank">pixel32 Online Sample (host by vercel)</a>
+  <br>
 
 ## Font Info
 
 - Name: pixel32 (像素32）
 - Size: 12px (11px + 1px padding)
-- Char Total: 6763 Chinese characters (English / Simplified Chinese / Japanese)
+- Char Total: 6763 Chinese characters (English / Simplified Chinese )
+
+# Download
+
+- [Download pixel32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pixel32.bdf (BDF)](https://github.com/JobYu/pixel32-pixel-font/releases)
+
+## License and Pricing
+
+- for Commercial/Business Product (Multiple Product)  **`USD $100`**
+- for Education Product **`FREE`**
+- for Personal Product **`FREE`**
+
+**My Wechat： `pixelfish`**
+
+> After paying for the font, I will give the license agreement. Invoices can be issued if necessary.
 
 ## 字体信息
 
 - 名称：pixel32 (像素32）
 - 字号：12px （11px + 1px 间距）
 - 字数：6763个汉字（英文 / 简体中文）
+
+# 字体下载
+
+- [下载 pixel32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pixel32.bdf (BDF)](https://github.com/JobYu/pixel32-pixel-font/releases)
+
+## 授权与价格
+
+- 用于 多个商业产品 - **`RMB ￥99`**
+- 用于 教育项目 - **`免费`**
+- 用于 个人项目 - **`免费`**
+
+**我的微信： `pixelfish`**
+
+> BTW：字体付费后，我会给一份授权协议。如有需要，可开具发票。
 
 
 ## 版权声明
