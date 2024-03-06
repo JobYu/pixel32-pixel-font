@@ -1,6 +1,15 @@
 # pixel32-pixel-font
 pixel32 (像素32）is a pixel font (像素字体), supporting English,  Simplified Chinese.
 
+![](https://github.com/JobYu/pixel32-pixel-font/image/pix32-1.png)
+
+![](https://github.com/JobYu/pixel32-pixel-font/image/pix32-2.png)
+
+![](https://github.com/JobYu/pixel32-pixel-font/image/pix32-3.png)
+
+![](https://github.com/JobYu/pixel32-pixel-font/image/pix32-4.png)
+
+![](https://github.com/JobYu/pixel32-pixel-font/image/pix32-5.png)
 
   <br>
    📍<a href="https://pix32.vercel.app/" target="_blank">pixel32 Online Sample (host by vercel)</a>
