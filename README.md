@@ -16,6 +16,13 @@ pixel32 (三二像素体）is a pixel font (像素字体), supporting English,  
    📍<a href="https://pix32.vercel.app/" target="_blank">pixel32 Online Sample (host by vercel)</a>
   <br>
 
+## 更新记录
+
+- v1.0 完成GB2312字符
+- v1.1 补全遗漏的字符
+- v1.2 修改部分字符笔画
+- v1.4.1 更新半角、全角空格
+
 ## Font Info
 
 - Name: pixel32 (三二像素体）
