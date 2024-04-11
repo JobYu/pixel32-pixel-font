@@ -25,6 +25,7 @@ pixel32 (三二像素体）is a pixel font (像素字体), supporting English,  
 - v1.4.1 更新半角、全角空格
 - v1.4.3 修改部分字符笔画
 - v1.4.4 修改部分字符笔画
+- v1.4.5 修改部分字符笔画
 
 ## Font Info
 
