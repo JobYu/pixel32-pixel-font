@@ -42,7 +42,7 @@ pixel32 (三二像素体）is a pixel font (像素字体), supporting English,  
 
 ## License and Pricing
 
-- for Commercial/Business Product (Multiple Product)  **`USD $100`**
+- for Commercial/Business Product (Multiple Product)  **`USD $200`**
 - for Education Product **`FREE`**
 - for Personal Product **`FREE`**
 
@@ -63,7 +63,7 @@ pixel32 (三二像素体）is a pixel font (像素字体), supporting English,  
 
 ## 授权与价格
 
-- 用于 多个商业产品 - **`RMB ￥99`**
+- 用于 多个商业产品 - **`RMB ￥199`**
 - 用于 教育项目 - **`免费`**
 - 用于 个人项目 - **`免费`**
 
